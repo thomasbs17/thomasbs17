@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Smart Contracts, Algorithmic Trading, ML/DL
+- 🌱 I’m currently learning Docker, NLP
+
 <!--
 **thomasbs17/thomasbs17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
