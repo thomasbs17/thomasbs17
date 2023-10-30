@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Smart Contracts, Algorithmic Trading, ML/DL
-- 🌱 I’m currently learning Docker, NLP
+- 🌱 I’m currently learning Kubernetes and React
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasbs17&show_icons=true&theme=radical)
 
