@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Smart Contracts, Algorithmic Trading, ML/DL
-- 🌱 I’m currently learning Rust and Solidity
+- 🔭 I’m currently working on Algorithmic Trading and GenAI
+- 🌱 I’m currently learning low-level programming (C and Rust) and C#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasbs17&show_icons=true&theme=radical)
 
